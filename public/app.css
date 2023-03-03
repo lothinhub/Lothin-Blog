@@ -1,0 +1,9 @@
+body {
+    background-color: blueviolet;
+    width: 600px;
+    margin: auto;
+    font-family: "Courier New", Courier, monospace;
+}
+p {
+    line-height: 1.6;
+}
